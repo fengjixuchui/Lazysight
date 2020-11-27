@@ -26,7 +26,7 @@ Credits
 --------------
 
 ### Coding the cheat
-Devecchi https://github.com/LuanDevecchi
+Devecchi https://github.com/oluan
 
 iPower https://github.com/iPower/
 
@@ -37,3 +37,5 @@ Disclaimer
 We don't endorse any P2C with Ironsight.
 
 P2C's using this source: Ninja Cheetos
+
+**THIS CHEAT IS OUTDATED. DO NOT PM ANY OF US ASKING FOR SUPPORT, YOU WILL BE INSTANTLY BLOCKED.**
